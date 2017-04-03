@@ -4,7 +4,7 @@
 #include <cmath>
 #include <iostream>
 
-
+constexpr int Nmax = 1000; //numero di segmenti
 
 double f(const double & x)
 {
@@ -37,24 +37,20 @@ double trapezi(double a, double b, int N)
   return sum;
 }
 
-double simpson(double a, double b, int N)
+int main()
 {
-  //DA FARE
-  return 0.0;
-}
-
-int main(void)
-{
-  std::ofstream f("out.txt", std::ios::out);
+  std::ofstream f("integratore.txt", std::ios::out);
 
   double truth = 1.0 - cos(1.0);
 
-  for (int n = 1; n < 100; n++) //calcolo degli integrali con varie discretizzazioni(segmenti)
+  for (int n = 1; n < Nmax; n++) //calcolo degli integrali con varie discretizzazioni(segmenti)
   {
-    int N = n*n; //numero di segmenti
-    f << N << " " << rettangoli(0.0, 1.0, N) - truth /*errore con il metodo dei rettangoli*/ << " " << trapezi(0.0, 1.0, N) - truth << " " << simpson(0.0, 1.0, N) - truth << std::endl;
+    f << n << "\t" << rettangoli(0.0, 1.0, n) - truth /* errore con il metodo dei rettangoli */ 
+           << "\t" << trapezi(0.0, 1.0, n) - truth /* errore con il metodo dei trapezi */
+           << std::endl;
   }
 
 
   f.close();
+  return 0;
 }
