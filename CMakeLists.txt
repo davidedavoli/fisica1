@@ -12,5 +12,6 @@ include_directories("${PROJECT_BINARY_DIR}")
 add_executable(integratore ${CMAKE_SOURCE_DIR}/src/integratore.cpp)
 add_executable(area_cerchio ${CMAKE_SOURCE_DIR}/src/area_cerchio.cpp)
 add_executable(formula_quadratica ${CMAKE_SOURCE_DIR}/src/formula_quadratica.cpp)
-install (TARGETS integratore area_cerchio formula_quadratica 
+add_executable(numeri_random ${CMAKE_SOURCE_DIR}/src/numeri_random.cpp)
+install (TARGETS integratore area_cerchio formula_quadratica numeri_random 
 	DESTINATION ${CMAKE_SOURCE_DIR}/bin/)
