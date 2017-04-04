@@ -93,5 +93,14 @@
 - Lavoro svolto dalla forza elastica  
 - Primi cenni del teorema dell'energia cinetica, sia per forze costanti che per forze variabili
 
+#### 30 marzo 2017
+- Ripasso definizione di lavoro  
+- Lavoro svolto da una forza variabile in due dimensioni  
+- Teorema dell'energia cinetica  
+- Conservazione energia cinetica in un urto elastico
+
+#### 31 marzo 2017
+- Esercizi (Prof. Rambaldi)  
+
 
 
