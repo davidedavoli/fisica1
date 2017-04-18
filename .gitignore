@@ -38,3 +38,4 @@ Release/
 *.user
 build/
 bin/
+.DS_Store

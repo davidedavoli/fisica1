@@ -102,5 +102,32 @@
 #### 31 marzo 2017
 - Esercizi (Prof. Rambaldi)  
 
+#### 4 aprile marzo 2017
+- Problemi al calcolatore: svolgimento guidato dei problemi proposti nel repository physycom/fisica1.git
+
+#### 6 aprile 2017
+- Forze conservative
+- Energia potenziale
+- Energia meccanica
+- Principio di conservazione dell'energia meccanica 
+
+#### 7 aprile 2017
+- Esercizi (Prof. Rambaldi)  
+
+#### 11 aprile 2017
+- Forze di attrito radente statico
+- Forze di attrito radente dinamico
+- Forze esterne, forze interne, lavori svolti da forze interne e da forze esterne
+- Conservazione dell'energia totale in un sistema di particelle
+
+#### 13 aprile 2017
+- SOSPENSIONE DIDATTICA - FESTE PASQUALI  
+
+#### 14 aprile 2017
+- SOSPENSIONE DIDATTICA - FESTE PASQUALI  
+
+#### 18 aprile 2017
+- SOSPENSIONE DIDATTICA - FESTE PASQUALI  
+
 
 
