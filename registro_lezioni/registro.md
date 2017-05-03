@@ -129,5 +129,28 @@
 #### 18 aprile 2017
 - SOSPENSIONE DIDATTICA - FESTE PASQUALI  
 
+#### 20 aprile 2017
+- Cinematica dei moti rotatori
+- Relazioni tra variabili lineari e angolari
+- Rotazione con accelerazione angolare costante e parallelismo con moto uniformemente accelerato
+- Introduzione del momento torcente
+- Introduzione del momento d'inerzia
+
+#### 21 aprile 2017
+- Esercizi (Prof. Rambaldi)  
+
+#### 27 aprile 2017
+- Definizione formale di momento torcente
+- Definizione completa di momento d'inerzia, per particella singola e per corpi estesi
+- Teorema di Huygens-Steiner e sua dimostrazione 
+- La seconda legge di Newton nel formalismo dei moti rotatori
+- Calcolo di momenti d'inerzia per alcuni corpi particolari
+- Nuova definizione di equilibrio alla luce delle ultime nozioni apprese
+
+#### 28 aprile 2017
+- Esercizi (Prof. Rambaldi)  
+
+#### 2 maggio 2017
+- Esercizi (Prof. Rambaldi)  
 
 
