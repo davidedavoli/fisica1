@@ -133,22 +133,28 @@
 - Cinematica dei moti rotatori
 - Relazioni tra variabili lineari e angolari
 - Rotazione con accelerazione angolare costante e parallelismo con moto uniformemente accelerato
-- Introduzione del momento torcente
-- Introduzione del momento d'inerzia
+- Esercizi sul prodotto vettoriale
 
 #### 21 aprile 2017
 - Esercizi (Prof. Rambaldi)  
 
+#### 18 aprile 2017
+- SOSPENSIONE DIDATTICA - FESTIVITÀ 25 APRILE  
+
 #### 27 aprile 2017
-- Definizione formale di momento torcente
-- Definizione completa di momento d'inerzia, per particella singola e per corpi estesi
-- Teorema di Huygens-Steiner e sua dimostrazione 
-- La seconda legge di Newton nel formalismo dei moti rotatori
-- Calcolo di momenti d'inerzia per alcuni corpi particolari
-- Nuova definizione di equilibrio alla luce delle ultime nozioni apprese
+- Introduzione dinamica dei moti rotatori
+- Definizione di momento torcente
+- Definizione di momento d'inerzia
 
 #### 28 aprile 2017
-- Esercizi (Prof. Rambaldi)  
+- Ripasso lezione precedente: ridefinizione delle grandezze fondamentali per i moti rotazionali
+		- momento torcente
+		- momento d'inerzia
+- Teorema di Huygens-Steiner e sua dimostrazione 
+- La seconda legge di Newton nel formalismo dei moti rotatori
+- Il momento d'inerzia per corpi rigidi (estesi)
+- Calcolo di momenti d'inerzia per alcuni corpi particolari (sbarra, lamina)
+- Nuova definizione di equilibrio alla luce delle ultime nozioni apprese
 
 #### 2 maggio 2017
 - Esercizi (Prof. Rambaldi)  
