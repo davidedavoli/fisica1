@@ -138,7 +138,7 @@
 #### Esercitazioni 7 : 21 aprile 2017
 - Esercizi (Prof. Rambaldi)  
 
-#### 18 aprile 2017
+#### 25 aprile 2017
 - SOSPENSIONE DIDATTICA - FESTIVITÀ 25 APRILE  
 
 #### Lezione 18 : 27 aprile 2017
