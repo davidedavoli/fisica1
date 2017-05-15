@@ -160,12 +160,25 @@
 - Esercizi (Prof. Rambaldi)  
 
 #### Lezione 20 : 4 maggio 2017
-- Il concetto di lavoro nella dinamica rotazionale
 - Il momento angolare
 - Principio di conservazione del momento angolare
 
 #### Esercitazioni 9 : 5 maggio 2017
 - Esercizi (Prof. Rambaldi)  
+
+#### Lezione 21 : 9 maggio 2017
+- Lavoro ed energia cinetica nel moto rotatorio
+- Ripasso del momento angolare
+- Momento e velocità angolari
+
+#### Esercitazioni 10 : 11 maggio 2017
+- Esercizi (Prof. Rambaldi)  
+
+#### Esercitazioni 11 : 12 maggio 2017
+- Esercizi
+
+#### Esercitazioni 12 : 16 maggio 2017
+- Esercizi
 
 
 
