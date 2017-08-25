@@ -17,7 +17,7 @@ constexpr double max_double = 3.3;
 
 int main ()
 {
-  std::srand(std::time(NULL));
+  std::srand((unsigned int)std::time(NULL));
 
   int irandom;
   double drandom;
