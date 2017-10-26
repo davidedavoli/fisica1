@@ -102,7 +102,7 @@
 #### Esercitazioni 4 : 31 marzo 2017
 - Esercizi (Prof. Rambaldi)  
 
-#### Esercitazioni 5 : 4 aprile marzo 2017
+#### Esercitazioni 5 : 4 aprile 2017
 - Problemi al calcolatore: svolgimento guidato dei problemi proposti nel repository physycom/fisica1.git
 
 #### Lezione 15 : 6 aprile 2017
