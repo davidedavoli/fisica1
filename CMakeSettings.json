@@ -19,6 +19,10 @@
         {
           "name": "VCPKG_CHAINLOAD_TOOLCHAIN_FILE",
           "value": "${env.WORKSPACE}\\sysconfig\\cmake\\physycom_toolchain.cmake"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
         }
       ]
     },
@@ -40,6 +44,10 @@
         {
           "name": "VCPKG_CHAINLOAD_TOOLCHAIN_FILE",
           "value": "${env.WORKSPACE}\\sysconfig\\cmake\\physycom_toolchain.cmake"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Release"
         }
       ]
     }
