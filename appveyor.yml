@@ -33,7 +33,7 @@ install:
   - if [%COMPILER%]==[vs] bootstrap-vcpkg.bat
   - if [%COMPILER%]==[vs] vcpkg integrate install
   - if [%COMPILER%]==[vs] vcpkg install boost
-  - cd %WORKSPACE%\intrphysycom\
+  - cd %WORKSPACE%\fisica1\
   - mkdir build
   - cd build
 
