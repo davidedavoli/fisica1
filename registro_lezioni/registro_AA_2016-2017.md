@@ -179,7 +179,3 @@
 
 #### Esercitazioni 12 : 16 maggio 2017
 - Esercizi
-
-
-
-
