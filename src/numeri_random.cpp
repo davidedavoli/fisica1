@@ -13,7 +13,7 @@ constexpr size_t nrandom = 100;
 constexpr int min_int = -2;
 constexpr int max_int = 4;
 constexpr double min_double = -1.5;
-constexpr double max_double = 3.3;
+constexpr double max_double = 2.0;
 
 int main ()
 {
